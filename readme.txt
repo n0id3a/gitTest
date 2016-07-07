@@ -12,3 +12,4 @@ New line to be sync'd with remote repo
 Another new line that will be committed with ssh push
 
 New line for push ssh test
+Feature1
